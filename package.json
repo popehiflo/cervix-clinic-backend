@@ -4,6 +4,7 @@
   "description": "Cervix Clinic Backend is a API REST for project Cervix Clinic",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
